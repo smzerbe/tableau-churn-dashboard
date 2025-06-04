@@ -48,7 +48,7 @@ The data was cleaned prior to visualization using Python and Excel:
 
 ---
 
-## 📫 Contact
+## Contact
 
 Author: Stephen Zerbe  
 Email: smzerbeda@gmail.com  
